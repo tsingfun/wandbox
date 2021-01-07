@@ -9,3 +9,9 @@ clone到本地后，首先必须执行 ./install_deps.sh 安装依赖包。
 
 cd /home/qpzhou/sources/wandbox/kennel2/_build/release
 make install
+
+
+
+
+# 拉取子模块
+git submodule update -i
