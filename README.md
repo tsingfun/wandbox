@@ -13,5 +13,13 @@ make install
 
 
 
-# 拉取子模块
+#### 拉取子模块
 git submodule update -i
+
+#### 配置文件
+mkdir /home/qpzhou/sources/wandbox/kennel2/_install/var/lib/kennel/
+cp xxx..session.key _install/var/lib/kennel/
+
+然后可以正常启动，监听3500端口
+
+待续。。
