@@ -22,4 +22,7 @@ cp xxx..session.key _install/var/lib/kennel/
 
 然后可以正常启动，监听3500端口
 
+### 编译cattleshed
+apt-get install libcap-dev
+
 待续。。
